@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhruvkothari2003
-- 👀 I’m interested in S App Devlopmet
+- 👀 I’m interested in  App Devlopmet
 - 🌱 I’m currently learning second year student computer science
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me ...
